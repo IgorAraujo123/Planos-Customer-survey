@@ -1,4 +1,16 @@
 # Customer Survey
+Introdução:
+O Objetivo principal do négocio é verificar a porcentagem de planos de software usados
 
-Nessa planilha possui uma base de dados com o nome do usuário e a download de um softaware com determinados planos, Nessa planilha possui um gráfico de pizza que 
-ilustrando a porcentagem de tipos de pacotes do software utilizados pelo usuário de acordo com o total de registros na planilha
+Base De Dados:
+Possui 148 linhas , 4 variaveis e 1 classe
+
+Objetivos:
+Verifição de Padrões 
+Limpeza de Dados caso necessário
+Gráfico de pizza 
+ilustrando a porcentagem de tipos de pacotes do software 
+
+Resultado:
+Podemos ver a diferença entre cada plano
+Ajudar na tomada de decisão sobre os planos
